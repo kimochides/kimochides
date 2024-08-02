@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Hello!](https://pin.it/3L2JXGTg0)
 <!--
 **kimochides/kimochides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
