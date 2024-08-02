@@ -1,5 +1,5 @@
 ## Hi there 👋
-!![Alt Text](https://github.com/your_username/your_repository_name/raw/main/your_gif_file.gif)
+!![](https://github.com/kimochides/kimochides/blob/main/download.gif)
 
 <!--
 **kimochides/kimochides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
